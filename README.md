@@ -61,7 +61,7 @@ Constantly learning and coding for university & personal projects.
 ### ⚡ What makes me different?
 * 🎨 **Design & Logic:** I don't just paste code. I use my design skills to make sure the UI feels as good as the backend logic.
 * 🛠️ **Under the Hood:** My education gives me a solid grasp of programming logic and databases, helping me build structured apps.
-* 🎬 **Storytelling:** I can code your app, and then edit a killer promo video for it. One dev, two skill sets.
+* 🎬 **Storytelling:** I can code your app, and then edit a promo video for it. One dev, two skill sets.
 
 ### 🎮 Chill Zone
 When I'm not studying or coding, I'm gaming.
