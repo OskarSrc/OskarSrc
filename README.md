@@ -69,4 +69,5 @@ When I'm not studying or coding, I'm gaming.
 
 ---
 Let's build something cool together! 🚀
+
 [**📩 Send me an email**](mailto:mlodygangster.wspolpraca@gmail.com)
