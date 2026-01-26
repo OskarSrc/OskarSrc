@@ -22,7 +22,6 @@ Combining academic theory with technical practice.
 ---
 
 ### 🎨 My Skillset
-Bridging the gap between engineering and design.
 
 
 | **Frontend Core** 💻 | **Creative Suite** 🎬 | **Basics & Tools** 🛠 |
