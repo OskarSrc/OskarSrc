@@ -1,6 +1,6 @@
 # 😎 OskarSrc
 
-**` Creative Frontend Developer | Video Editor | Designer `**
+**` Creative Developer | Video Editor | Designer `**
 
 I am a programmer and developer from Krakow. My adventure with technology began in technical high school, and now I am continuing it at university, where I am studying applied computer science. For me, it's not just about writing code, but about the end result.
 
