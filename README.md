@@ -1,7 +1,5 @@
 # 😎 OskarSrc
 
-**` Creative Developer | Video Editor | Designer `**
-
 I am a programmer and developer from Krakow. My adventure with technology began in technical high school, and now I am continuing it at university, where I am studying applied computer science. For me, it's not just about writing code, but about the end result.
 
 I approach each project with a dual mindset: the logic of an engineer and the eye of an editor. I spend my days creating interactive web interfaces and my nights playing video games. I use code to build structure and design tools to tell a story. For me, programming and video editing are two sides of the same coin - creating something wonderful from scratch.
