@@ -1,9 +1,10 @@
-# 😎 OskarSrc
+# 🎆OskarSrc
 
-I am a programmer and developer from Krakow. My adventure with technology began in technical high school, and now I am continuing it at university, where I am studying applied computer science. For me, it's not just about writing code, but about the end result.
+I am a developer from Poland. This all started a long time ago, even before I went to high school. I was a kid who liked building Roblox games and running my Minecraft servers. This curiosity I had turned into something serious. I went to an IT high school. Now I am studying Applied Computer Science at university.
 
-I approach each project with a dual mindset: the logic of an engineer and the eye of an editor. I spend my days creating interactive web interfaces and my nights playing video games. I use code to build structure and design tools to tell a story. For me, programming and video editing are two sides of the same coin - creating something wonderful from scratch.
+I used to focus on the frontend. Now I work on the full stack. This means I do everything from making interfaces to working on backend logic with Django. I like to build things that people really enjoy using. In my time, I also like to do some video editing.
 
+When I work on a project, I use the logic of an engineer and the eye of a designer. Code helps me stay organised. Design lets me tell a story. For me, code and design have always gone together. I like to use code to make things work and design to make them look nice.
 
 ---
 
@@ -12,34 +13,42 @@ Combining academic theory with technical practice.
 
 * 🎓 **Applied Computer Science**
     * *University in Kraków (Current Student)*
-* 🏫 **IT Technical High School in Kraków** (Technikum Informatyczne)
-    * *Graduated with IT Technician Title (Technik Informatyk)*
+* 🏫 **IT Technical High School in Kraków**
+    * *Graduated with the title of IT Technician (Polish: Technik Informatyk)*
+    * 📋 **INF.02** — Administration & operation of computer systems, peripherals and local networks
+    * 📋 **INF.03** — Web development, internet applications and database administration
 * 💻 **Self-Education**
-    * *Constantly leveling up via **Udemy**, **Youtube** & **freeCodeCamp** courses*
+    * *Constantly leveling up via **Udemy**, **YouTube** & **freeCodeCamp***
 
 ---
 
 ### 🎨 My Skillset
 
-
-| **Frontend Core** 💻 | **Creative Suite** 🎬 | **Basics & Tools** 🛠 |
+| **Frontend & Web** 💻 | **Creative Suite** 🎬 | **Systems & Tools** 🛠 |
 |:---:|:---:|:---:|
 | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) |
-| ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white) | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) |
+| ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
+| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white) | | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
+| | | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) |
+| | | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+
+---
+
+### ⚡ What makes me different?
+I have two qualifications, **INF.02** and **INF.03**, which means I am comfortable working on all parts of a project. I can set up networks and systems. Also, build and manage web applications and databases. In addition to coding, I have a sense of design, which not many developers have. This allows me to create a user interface that's both functional and visually appealing.
+
 ---
 
 ### 🌱 Learning & Roadmap
-I am constantly leveling up my skills through **Udemy**, **Youtube** and **freeCodeCamp** courses.
-
-Here are the technologies currently on my radar to master next:
+Always building on what I know. Here's what's next on my list:
 
 <p align="left">
   <img src="https://img.shields.io/badge/-Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" />
   <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
@@ -50,21 +59,10 @@ Constantly learning and coding for university & personal projects.
 
 <p align="left">
 <img src="https://wakatime.com/share/@mlodygangster/61de29c1-f46c-40a2-af32-6df3eb479fce.svg" alt="WakaTime Stats" />
-
-
-  
----
-
-### ⚡ What makes me different?
-* 🎨 **Design & Logic:** I don't just paste code. I use my design skills to make sure the UI feels as good as the backend logic.
-* 🛠️ **Under the Hood:** My education gives me a solid grasp of programming logic and databases, helping me build structured apps.
-* 🎬 **Storytelling:** I can code your app, and then edit a promo video for it. One dev, two skill sets.
-
-### 🎮 Chill Zone
-When I'm not studying or coding, I'm gaming.
-* **Current favorites:** Uncharted, Death Stranding 1&2, Dave the Diver, Dark Souls 1.
+</p>
 
 ---
+
 Let's build something cool together! 🚀
 
 [**📩 Send me an email**](mailto:mlodygangster.wspolpraca@gmail.com)
